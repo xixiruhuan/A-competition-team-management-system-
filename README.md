@@ -1,4 +1,7 @@
-# vue
+# Competition Team Management System 
+Based on Vue + Spring Boot and Machine Learning(Decision Tree)
+
+# VUE
 
 ## Project setup
 ```
